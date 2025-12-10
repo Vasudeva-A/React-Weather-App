@@ -13,6 +13,10 @@ A clean and responsive **Weather Application** built using **React.js**, providi
 - ⚡ Built with React + OpenWeather API
 
 ---
+## 🔗 Live Demo
+
+Check the app live here: [React Weather App](https://weather-report-app01.netlify.app)
+
 
 ## 🛠️ Tech Stack
 
